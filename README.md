@@ -16,7 +16,7 @@
 |编译技术|八成新|中|0|:white_large_square: |
 |计算机网络实验教程|九成新|中|0|:white_large_square: |
 |大三上复习资料手册|基本全新|薄|0|:white_large_square:|
-|GRE核心词汇考法精析|九成新|超级厚|0|:white_large_square: |
+|GRE核心词汇考法精析|九成新|超级厚|0|:white_check_mark:  |
 |密码学简明教程|六成新|薄|0|:white_large_square: |
 |网络攻击与防御技术|七成新|薄|0|:white_large_square:|
 |设计模式（java）|八成新|厚|15|:white_check_mark: |
